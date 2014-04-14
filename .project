@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Ledos</name>
+=======
+	<name>java-arduinoGrafico</name>
+>>>>>>> 8aec8d5d7e4ce58a003f23050e079c162d55f0df
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
 		<buildCommand>
+<<<<<<< HEAD
 			<name>com.android.ide.eclipse.adt.ResourceManagerBuilder</name>
 			<arguments>
 			</arguments>
@@ -16,10 +21,13 @@
 			</arguments>
 		</buildCommand>
 		<buildCommand>
+=======
+>>>>>>> 8aec8d5d7e4ce58a003f23050e079c162d55f0df
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
+<<<<<<< HEAD
 		<buildCommand>
 			<name>com.android.ide.eclipse.adt.ApkBuilder</name>
 			<arguments>
@@ -28,6 +36,10 @@
 	</buildSpec>
 	<natures>
 		<nature>com.android.ide.eclipse.adt.AndroidNature</nature>
+=======
+	</buildSpec>
+	<natures>
+>>>>>>> 8aec8d5d7e4ce58a003f23050e079c162d55f0df
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
 </projectDescription>

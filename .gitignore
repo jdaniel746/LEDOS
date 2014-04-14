@@ -1,0 +1,4 @@
+# Ignorar estos directorios
+
+bin
+.settings
